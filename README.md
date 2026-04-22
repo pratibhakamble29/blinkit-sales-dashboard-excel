@@ -20,4 +20,4 @@ This project is an interactive Excel dashboard built to analyze Blinkit grocery 
 - Charts & Slicers
 
 ## 🔹 Dashboard Preview
-![Dashboard](PASTE_YOUR_IMAGE_LINK_HERE)
+![Dashboard](https://github.com/pratibhakamble29/blinkit-sales-dashboard-excel/blob/main/blinkit-sales-dashboard.png)
